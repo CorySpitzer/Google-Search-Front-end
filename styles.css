@@ -4,3 +4,32 @@
   /* background-color: yellow; */
   padding: 8px
 }
+
+#Google_search {
+  /* padding: 150px; */
+  /* From https://css-tricks.com/centering-css-complete-guide/ */
+  width: 300px;
+  height: 100px;
+  padding: 20px;
+
+  position: absolute;
+  top: 50%;
+  left: 50%;
+
+  margin: -70px 0 0 -170px;
+}
+
+#text_box {
+  text-align: center;
+  /* padding: 150px 0; */
+  border-radius: 25px;
+  border: 1px solid black;
+  width: 150px;
+  height: 20px;
+}
+
+#submit_button {
+  /* background-color: yellow; */
+  display: block
+  /* padding 5px; */
+}
