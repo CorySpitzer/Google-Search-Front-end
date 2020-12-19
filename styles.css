@@ -1,5 +1,6 @@
-#advanced_search {
+.right_link {
   /* text-align: right; */
   float: right;
-  background-color: yellow;
+  /* background-color: yellow; */
+  padding: 8px
 }
